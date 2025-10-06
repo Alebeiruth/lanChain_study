@@ -1,0 +1,20 @@
+# Desativar ambiente virtual
+deactivate
+
+# Reativar
+venv\Scripts\activate
+
+# Limpar cache do pip
+pip cache purge
+
+# Atualizar um pacote específico
+pip install --upgrade langchain
+
+# Desinstalar pacote
+pip uninstall langchain
+
+# Ver dependências de um pacote
+pip show langchain
+
+# Verificar pacotes desatualizados
+pip list --outdated

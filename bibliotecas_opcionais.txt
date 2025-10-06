@@ -1,0 +1,20 @@
+Bibliotecas Opcionais conforme a necessidade
+
+# Vector stores em produção
+pip install pinecone-client  # Pinecone
+pip install faiss-cpu        # FAISS (CPU version)
+
+# Outras integrações de LLMs
+pip install anthropic        # Claude
+pip install cohere          # Cohere
+
+# Processamento de texto avançado
+pip install tiktoken        # Tokenizer OpenAI
+pip install sentence-transformers  # Embeddings locais
+
+# Monitoramento e debugging
+pip install langsmith        # LangSmith (observability)
+pip install langchain-benchmarks
+
+# Web scraping avançado
+pip install playwright
