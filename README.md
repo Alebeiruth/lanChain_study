@@ -52,3 +52,5 @@ Este repositório contém um notebook Jupyter educacional que ensina LangChain d
 
 ### Passo 1: Clonar o Repositório
 ```bash
+git clone https://github.com/seu-usuario/langchain-guia-completo.git
+cd langchain-guia-completo
